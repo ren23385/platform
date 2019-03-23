@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-    <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.platform.module.biz</groupId>
         <artifactId>platform-biz</artifactId>
+        <groupId>com.platform.module.biz</groupId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
+    <modelVersion>4.0.0</modelVersion>
+
     <artifactId>platform-biz-admin</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>platform-biz-admin</name>
-    <description>持久层、业务层</description>
 
-    <properties>
-        <java.version>1.8</java.version>
-    </properties>
-
-    <dependencies>
-
-    </dependencies>
-
-    <build>
-        <finalName>platform-biz-admin</finalName>
-    </build>
 
 </project>
